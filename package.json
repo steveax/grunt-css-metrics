@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "glob": "3.2.1",
-    "css-parse": "~1.4.0",
+    "css-parse": "~2.0.0",
     "humanize": "~0.0.7"
   },
   "devDependencies": {
